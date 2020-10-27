@@ -12,7 +12,7 @@ uma navegação agradável.
 ![retifica 02](https://user-images.githubusercontent.com/72710750/97366395-01cf9e00-1886-11eb-9436-625c0daafa91.png)
 
 ### **ACESSE**
-
+**https://johnnykleyson.github.io/carshop-landingpage/**
 
 ### **FERRAMENTAS E TECNICAS UTILIZADAS**
 -HTML
